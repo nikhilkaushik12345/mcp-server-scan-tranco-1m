@@ -1,1 +1,1 @@
-{{contexts.`LindyComputer.useTerminal-ewyrd`.query("full base64 encoded content of FINAL_oauth_mcp_servers.csv", {filter: true})}}
+{{steps.read_file.$return_value}}
